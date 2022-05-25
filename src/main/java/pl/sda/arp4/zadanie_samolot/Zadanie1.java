@@ -1,4 +1,4 @@
-
+package pl.sda.arp4.zadanie_samolot.zadanie1;
 
 import java.util.Arrays;
 import java.util.List;
